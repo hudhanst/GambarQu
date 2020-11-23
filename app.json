@@ -1,0 +1,12 @@
+{
+  "name": "GambarQu",
+  "displayName": "GambarQu",
+  "expo": {
+    "name": "GambarQu",
+    "slug": "GambarQu",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
